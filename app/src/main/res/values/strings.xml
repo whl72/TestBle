@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Test_Ble_1</string>
+
+    <string name="Login">用户登录</string>
+    <string name="UserName">用户:</string>
+    <string name="PassWord">密码:</string>
+    <string name="Enter">登录</string>
+    <string name="Register">注册</string>
+    <string name="no_account">没有用户账号，点击</string>
+    <string name="write_name">请输入账号</string>
+    <string name="write_password">请输入密码</string>
+    <string name="welcome">欢迎使用,请点击进入</string>
+    <string name="register_name">请输入用户名</string>
+    <string name="register_password">请输入密码</string>
+    <string name="query">查看注册</string>
+
+    <string name="scan_ble">扫描蓝牙</string>
+    <string name="title_name">蓝牙名称</string>
+    <string name="title_mac">蓝牙地址</string>
+    <string name="title_rssi">信号强度</string>
+    <string name="title_image">蓝牙图片</string>
+    <string name="enable_tx_ble">使能接收</string>
+    <string name="popup_test">测试窗口</string>
+    <string name="send_data">SEND</string>
+</resources>
